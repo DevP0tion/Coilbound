@@ -15,4 +15,9 @@ namespace Coilbound.Contents.Items
 
     public BuffInfo[] useEffect;
   }
+  
+  public class UsableItemData : ItemData
+  {
+    public BuffInfo[] onUse;
+  }
 }

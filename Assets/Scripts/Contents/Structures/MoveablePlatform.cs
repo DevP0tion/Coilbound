@@ -1,3 +1,4 @@
+using Coilbound.Contents.Items;
 using UnityEngine;
 
 namespace Coilbound.Contents.Structures
@@ -8,7 +9,7 @@ namespace Coilbound.Contents.Structures
 
     private void Awake()
     {
-      
+      ItemData[] datas;
     }
   }
 }
